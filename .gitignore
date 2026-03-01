@@ -1,0 +1,16 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Vendor
+/vendor/
+
+# build
+/bin/
+/obj/
+
+# logs
+*.log
